@@ -45,9 +45,10 @@
 
 ### 📫 Como me encontrar:
 
-[![LinkedIn](https://www.linkedin.com/in/eric-gomes-52158b359/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![Instagram](https://www.instagram.com/ericgomessz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-gomes-52158b359/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eric.gcordeiro16@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ericgomessz/)
+
 
 ---
 
