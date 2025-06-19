@@ -15,7 +15,7 @@
 
 ## 💻 Tecnologias e Ferramentas
 
-<p align="center">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
@@ -28,12 +28,11 @@
 ---
 
 ## 🌟 Projetos em Destaque
-- [🔗 **Catálogo de Filmes**](https://github.com/SEUUSUARIO/catalogo-filmes) — API + CRUD + JSON Server + Bootstrap
-- [🔗 **Gestão Financeira**](https://github.com/SEUUSUARIO/gestao-financeira) — Projeto em construção
-- [🔗 **Sistema de Login**](https://github.com/SEUUSUARIO/sistema-login) — Autenticação com Node.js + JWT
+- [🔗 **GS GEEK**](https://github.com/SEUUSUARIO/catalogo-filmes) — API + CRUD + JSON Server + Bootstrap
+- [🔗 **Vicios Bet**](https://github.com/SEUUSUARIO/gestao-financeira) — Projeto em construção
 
 ---
 
 ## 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/SEULINK)
-- 📧 seuemail@exemplo.com
+- [LinkedIn](https://www.linkedin.com/in/eric-gomes-52158b359/)
+- 📧 eric.gcordeiro16@gmail.com
