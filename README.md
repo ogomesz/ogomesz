@@ -15,7 +15,6 @@
 
 ### ⚙ Tecnologias & Ferramentas
 <p align="center">
-## Backend
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" title="Node.js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px" title="C#"/>
@@ -57,27 +56,6 @@
   </a>
 </p>
 
-<p align="center">💡 Sempre aprendendo e buscando evoluir como dev. Vamos conectar!</p>
-✅ Resumo final
-👉 Seu README está num ótimo caminho!
-👉 Pode ficar ainda mais profissional com ajustes visuais, organização e uma frase final chamativa.
-👉 Se quiser, eu monto o arquivo .md completo com o novo visual.
-
-💬 Quer que eu gere esse arquivo final pra você copiar/colar ou baixar? 🚀
-
-
-
-
-
-
-
-
-
-
-
-</p>
-
----
 
 ### 🚀 Projetos em Destaque
 # 1º Semestre
