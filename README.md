@@ -62,5 +62,3 @@
 </p>
 
 ---
-
-<p align="center">✨ By Eric Gomes ✨</p>
