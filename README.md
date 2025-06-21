@@ -28,7 +28,7 @@
 ---
 
 ### 🚀 Projetos em Destaque
-
+# 1º Semestre
 - 🔹 [Catálogo de Animes / GS GEEK](https://github.com/ogomesz/GS-GEEK) – HTML, CSS, JS, Bootstrap + CRUD & JSON Server
 - 🔹 **Vícios Bet** – Projeto em construção
 
