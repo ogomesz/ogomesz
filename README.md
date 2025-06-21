@@ -9,7 +9,7 @@
 ### 👨‍🎓 Sobre mim
 
 - 🎓 Cursando **Sistemas de Informação** na **PUC Minas - Betim**
-- 💡 Interesses: Desenvolvimento Web, APIs, Cybersecurity, Inteligência Artificial.
+- 💡 Interesses: Desenvolvimento Web, APIs, Cybersecurity, Inteligência Artificial, SAP.
 
 ---
 
