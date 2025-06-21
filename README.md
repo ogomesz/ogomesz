@@ -29,12 +29,13 @@
 
 ### Projetos em Destaque
 
+## 1º Semestre
 - 🔹 [Catálogo de Animes / GS GEEK ](https://github.com/ogomesz/GS-GEEK.git) – HTML, CSS, JS, Bootstrap + CRUD & JSON Server
 - 🔹 [Vicios Bet ]() – Projeto em construção
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Status
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=github_dark&count_private=true"/>
@@ -43,7 +44,7 @@
 
 ---
 
-### 📫 Como me encontrar:
+### 📫 Contatos:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-gomes-52158b359/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eric.gcordeiro16@gmail.com)
