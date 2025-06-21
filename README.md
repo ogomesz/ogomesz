@@ -29,7 +29,7 @@
 
 ### Projetos em Destaque
 
-- 🔹 [Catálogo de Animes / GS GEEK ](https://github.com/seuusuario/catalogo-filmes) – HTML, CSS, JS, Bootstrap + CRUD & JSON Server
+- 🔹 [Catálogo de Animes / GS GEEK ](https://github.com/ogomesz/GS-GEEK.git) – HTML, CSS, JS, Bootstrap + CRUD & JSON Server
 - 🔹 [Vicios Bet ]() – Projeto em construção
 
 ---
