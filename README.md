@@ -14,6 +14,8 @@
 ---
 
 ### ⚙ Tecnologias & Ferramentas
+
+## Backend
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" title="Node.js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" title="Python"/>
@@ -42,21 +44,6 @@
 
 ---
 
-### 📫 Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/eric-gomes-52158b359/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:eric.gcordeiro16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/ericgomessz/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
-
 ### 🚀 Projetos em Destaque
 # 1º Semestre
 - 🔹 [Catálogo de Animes / GS GEEK](https://github.com/ogomesz/GS-GEEK) – HTML, CSS, JS, Bootstrap + CRUD & JSON Server
@@ -73,7 +60,8 @@
 
 ---
 
-### 📫 Como me encontrar
+
+### 📫 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eric-gomes-52158b359/" target="_blank">
