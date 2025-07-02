@@ -33,7 +33,7 @@
 ### Projetos em Destaque
 
 ## 1º Semestre
-- 🔹 [Catálogo de Animes / GS GEEK ](https://github.com/ogomesz/GS-GEEK.git) – HTML, CSS, JS, Bootstrap + CRUD & JSON Server
+- 🔹 [Catálogo de Filmes / GS Filmes ](https://github.com/ogomesz/GS-GEEK.git) – HTML, CSS, JS, Bootstrap + CRUD & JSON Server
 - 🔹 [Vicios Bet ]() – Projeto em construção
 
 ---
