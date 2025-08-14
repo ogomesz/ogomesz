@@ -9,7 +9,7 @@
 ### 👨‍🎓 Sobre mim
 
 - 🎓 Cursando **Sistemas de Informação** na **PUC Minas - Betim**
-- 💡 Interesses: Redes de computadores (Cibersegurança), Desenvolvimento Backend.
+- 💡 Interesses: Redes de computadores (Cibersegurança), Desenvolvimento Backend | C# .
 
 ---
 
