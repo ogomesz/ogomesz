@@ -35,8 +35,9 @@
 - 🔹 [Vicios Bet ]() – Projeto em construção
 
 
-##Projeto Pessoal
-Controle de Estoque (https://github.com/ogomesz/Almoxarifado.Puc.git) - C# | POO
+## Projeto Pessoal
+- 🔹 [Controle de Estoque ](https://github.com/ogomesz/Almoxarifado.Puc.git) – C# | POO | .NET
+
 
 ---
 
