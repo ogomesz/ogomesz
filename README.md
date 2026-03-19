@@ -34,6 +34,10 @@
 - 🔹 [Catálogo de Filmes / GS Filmes ](https://github.com/ogomesz/GS-GEEK.git) – HTML, CSS, JS, Bootstrap + CRUD & JSON Server
 - 🔹 [Vicios Bet ]() – Projeto em construção
 
+
+##Projeto Pessoal
+Controle de Estoque (https://github.com/ogomesz/Almoxarifado.Puc.git) - C# | POO
+
 ---
 
 ### 📊 GitHub Status
