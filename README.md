@@ -52,8 +52,11 @@ Trabalho no setor de TI da PUC e foco meus estudos em arquitetura de sistemas e 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogomesz&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF0000&icon_color=FF0000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogomesz&layout=compact&theme=dark&bg_color=0D1117&title_color=FF0000" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ogomesz&theme=tokyonight&fire=FF0000&sideNums=FF0000&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats" />
+  
+  <br><br>
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ogomesz&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&hide_border=true" />
 </div>
 
 ---
