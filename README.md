@@ -32,11 +32,9 @@ Trabalho no setor de TI da PUC e foco meus estudos em arquitetura de sistemas e 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,react,git,vscode,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,react,sqlserver,git,vscode,figma&theme=dark" />
   </a>
 </p>
-
-> *Os ícones acima representam meu stack principal de estudos e ferramentas diárias.*
 
 ---
 
@@ -54,12 +52,12 @@ Trabalho no setor de TI da PUC e foco meus estudos em arquitetura de sistemas e 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ogomesz&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogomesz&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogomesz&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF0000&icon_color=FF0000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogomesz&layout=compact&theme=dark&bg_color=0D1117&title_color=FF0000" />
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=red&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer" width="100%"/>
 </p>
