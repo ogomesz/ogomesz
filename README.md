@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h1>Olá, eu sou o Eric Gomes 👋</h1>
+  <h1>Olá, eu sou o Eric Gomes </h1>
   <p>
     <strong>Estudante de Sistemas de Informação na PUC Minas</strong><br>
     Especializando em Desenvolvimento Backend & Ecossistema .NET
