@@ -37,7 +37,7 @@ Trabalho no setor de TI da PUC e foco meus estudos em arquitetura de sistemas e 
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,git,vscode,js,html,css,react,figma,onepiece&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,git,js,html,css,figma,onepiece&theme=dark" />
   </a>
 </div>
 
@@ -49,7 +49,7 @@ Trabalho no setor de TI da PUC e foco meus estudos em arquitetura de sistemas e 
     *Projeto em C# explorando conceitos de Orientação a Objetos.*
 * **[Catálogo de Filmes / GS Filmes](https://github.com/ogomesz/GS-GEEK.git)**
     *Interface web com CRUD funcional utilizando JavaScript.*
-* **[Vicios Bet]**
+* **[Vicios Bet]()**
     *Desenvolvimento de lógica de sistemas e regras de negócio.*
 
 ---
@@ -60,18 +60,7 @@ Trabalho no setor de TI da PUC e foco meus estudos em arquitetura de sistemas e 
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogomesz&theme=tokyonight&fire=FF0000&sideNums=FF0000&hide_border=true" alt="GitHub Streak" />
 
-  <br><br>
-
-  <b>C# / .NET</b> 
-  <img src="https://progress-bar.dev/85/?scale=100&title=progresso&color=FF0000&width=300" /> 
   <br>
-  <b>SQL Server</b> 
-  <img src="https://progress-bar.dev/60/?scale=100&title=progresso&color=FF0000&width=300" />
-  <br>
-  <b>JavaScript</b> 
-  <img src="https://progress-bar.dev/45/?scale=100&title=progresso&color=FF0000&width=300" />
-
-</div>
 
 ---
 
