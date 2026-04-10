@@ -32,7 +32,7 @@ Trabalho no setor de TI da PUC e foco meus estudos em arquitetura de sistemas e 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,react,sqlserver,git,vscode,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,react,git,vscode,figma&theme=dark" />
   </a>
 </p>
 
