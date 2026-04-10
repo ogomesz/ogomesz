@@ -57,8 +57,6 @@ Trabalho no setor de TI da PUC e foco meus estudos em arquitetura de sistemas e 
 
 ### 📊 Atividade no GitHub
 
-<div align="center">
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogomesz&theme=tokyonight&fire=FF0000&sideNums=FF0000&hide_border=true" alt="GitHub Streak" />
 
   <br>
