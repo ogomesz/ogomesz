@@ -63,16 +63,7 @@ Trabalho no setor de TI da PUC e foco meus estudos em arquitetura de sistemas e 
 
   <br><br>
 
-  <b>C# / .NET</b> 
-  <img src="https://progress-bar.dev/85/?scale=100&title=progresso&color=FF0000&width=300" /> 
-  <br>
-  <b>SQL Server</b> 
-  <img src="https://progress-bar.dev/60/?scale=100&title=progresso&color=FF0000&width=300" />
-  <br>
-  <b>JavaScript</b> 
-  <img src="https://progress-bar.dev/45/?scale=100&title=progresso&color=FF0000&width=300" />
 
-</div>
 
 
 
