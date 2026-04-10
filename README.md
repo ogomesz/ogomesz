@@ -53,7 +53,7 @@ Trabalho no setor de TI da universidade e foco meus estudos em desenvolvimento b
 ### 📊 Atividade do GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ogomesz&show_icons=true&theme=react&bg_color=0D1117&title_color=87CEEB&icon_color=87CEEB&hide_border=true" />
+  <img height="150em" src=https://github-readme-stats-sigma-five.vercel.app/username=ogomesz&show_icons=true&theme=react&bg_color=0D1117&title_color=87CEEB&icon_color=87CEEB&hide_border=true" />
 </div>
 
 ---
