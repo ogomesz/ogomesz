@@ -36,7 +36,7 @@ Trabalho no setor de TI da universidade e foco meus estudos em desenvolvimento b
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,git,vscode,js,html,css,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,git,js,html,css,figma&theme=dark" />
   </a>
 </div>
 
