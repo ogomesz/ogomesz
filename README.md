@@ -63,6 +63,10 @@ Trabalho no setor de TI da PUC e foco meus estudos em arquitetura de sistemas e 
 
   <br><br>
 
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ogomesz&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000" alt="Estatísticas de Contribuição" />
+</div>
+
 
 
 
