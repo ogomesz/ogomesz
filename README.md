@@ -27,7 +27,7 @@ Atualmente no 3º semestre de **Sistemas de Informação (PUC Minas - Betim)**.
 Trabalho no setor de TI da universidade e foco meus estudos em desenvolvimento backend e arquiteturas escaláveis.
 
 - 🚀 Focado no ecossistema **C# | .NET**.
-- ⚙️ Praticando **POO**, **MVC** e **Entity Framework**.
+- ⚙️ Praticando **POO** **Entity Framework**.
 - 📚 Modelagem de dados com **SQL Server**.
 
 ---
