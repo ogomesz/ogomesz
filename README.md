@@ -2,9 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header" width="100%"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/skull-crossbones.svg" width="50px" style="fill: #FF0000;"/>
+  <img src="https://raw.githubusercontent.com/SAWARATSUKI/Anime-Logos/main/One%20Piece/One%20Piece.png" width="300px" />
+</p>
+
+<p align="center">
+  <img src="https://api.iconify.design/game-icons:pirate-skull.svg?color=%23FF0000" width="40px" />
   <br>
-  <strong><span style="color: #FF0000; font-size: 1.2em;">Pirate King Developer</span></strong>
+  <b>"Não sou um herói, mas vou ser o Rei do Backend!"</b>
 </p>
 
 <div align="center">
