@@ -1,6 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header" width="100%"/>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/skull-crossbones.svg" width="50px" style="fill: #FF0000;"/>
+  <br>
+  <strong><span style="color: #FF0000; font-size: 1.2em;">Pirate King Developer</span></strong>
+</p>
 
 <div align="center">
   <h1>Olá, eu sou o Eric Gomes </h1>
