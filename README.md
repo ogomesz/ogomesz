@@ -1,13 +1,70 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header" width="100%"/>
+</p>
+
+<div align="center">
+  <h1>Olá, eu sou o Eric Gomes 👋</h1>
+  <p>
+    <strong>Estudante de Sistemas de Informação na PUC Minas</strong><br>
+    Especializando em Desenvolvimento Backend & Ecossistema .NET
+  </p>
+
+  <div>
+    <a href="https://www.linkedin.com/in/eric-gomes-52158b359/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:eric.gcordeiro16@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+  </div>
+</div>
+
+---
+
+### 👨‍💻 Sobre Mim
+
+Atualmente no 3º semestre de **Sistemas de Informação (PUC Minas - Betim)**. 
+Trabalho no setor de TI da PUC e foco meus estudos em arquitetura de sistemas e backend escalável.
+
+- 🔭 Desenvolvendo sistemas com **C# | .NET**.
+- ⚙️ Praticando **POO**, **MVC** e **Entity Framework**.
+- 📚 Estudando continuamente sobre banco de dados SQL Server.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,react,sqlserver,git,vscode,figma&theme=dark" />
+  </a>
+</p>
+
+---
+
+### 🚀 Projetos em Destaque
+
+* **[Controle de Estoque (Almoxarifado)](https://github.com/ogomesz/Almoxarifado.Puc.git)**
+    *Projeto em C# explorando conceitos de Orientação a Objetos.*
+* **[Catálogo de Filmes / GS Filmes](https://github.com/ogomesz/GS-GEEK.git)**
+    *Interface web com CRUD funcional utilizando JavaScript.*
+* **[Vicios Bet]**
+    *Desenvolvimento de lógica de sistemas e regras de negócio.*
+
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ogomesz&theme=tokyonight&fire=FF0000&sideNums=FF0000&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" alt="GitHub Streak Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ogomesz&theme=tokyonight&fire=FF0000&sideNums=FF0000&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats" />
   
-  <br>
+  <br><br>
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogomesz&layout=compact&langs_count=6&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ogomesz&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&hide_border=true" />
 </div>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer" width="100%"/>
+</p>
