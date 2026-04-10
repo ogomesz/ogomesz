@@ -53,17 +53,28 @@ Trabalho no setor de TI da PUC e foco meus estudos em arquitetura de sistemas e 
 
 ---
 
-### 📊 Estatísticas do GitHub
+
+
+### 📊 Atividade no GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ogomesz&theme=tokyonight&fire=FF0000&sideNums=FF0000&hide_border=true" />
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogomesz&theme=tokyonight&fire=FF0000&sideNums=FF0000&hide_border=true" alt="GitHub Streak" />
+
+  <br><br>
+
+  <b>C# / .NET</b> 
+  <img src="https://progress-bar.dev/85/?scale=100&title=progresso&color=FF0000&width=300" /> 
   <br>
+  <b>SQL Server</b> 
+  <img src="https://progress-bar.dev/60/?scale=100&title=progresso&color=FF0000&width=300" />
+  <br>
+  <b>JavaScript</b> 
+  <img src="https://progress-bar.dev/45/?scale=100&title=progresso&color=FF0000&width=300" />
 
-  <img width="400px" src="https://github-readme-stats-git-master-rahuldkjains-projects.vercel.app/api/top-langs/?username=ogomesz&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&hide_border=true&bg_color=0D1117" />
 </div>
 
----
+
 
 ---
 
