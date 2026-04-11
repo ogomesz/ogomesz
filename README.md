@@ -21,7 +21,7 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+###  Sobre Mim
 
 Atualmente no 3º semestre de **Sistemas de Informação (PUC Minas - Betim)**. 
 Trabalho no setor de TI da universidade e foco meus estudos em desenvolvimento backend e arquiteturas escaláveis.
