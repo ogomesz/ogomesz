@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h1>Olá, eu sou o Eric Gomes 👋</h1>
+  <h1>Olá, eu sou o Eric Gomes </h1>
   <p>
     <strong>Estudante de Sistemas de Informação na PUC Minas</strong><br>
     Desenvolvedor Backend & Ecossistema .NET
@@ -27,12 +27,12 @@ Atualmente no 3º semestre de **Sistemas de Informação (PUC Minas - Betim)**.
 Trabalho no setor de TI da universidade e foco meus estudos em desenvolvimento backend e arquiteturas escaláveis.
 
 - 🚀 Focado no ecossistema **C# | .NET**.
-- ⚙️ Praticando **POO**, **MVC** e **Entity Framework**.
+- ⚙️ Praticando **POO**, **Entity Framework**.
 - 📚 Modelagem de dados com **SQL Server**.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+###  Tecnologias & Ferramentas
 
 <div align="left">
   <a href="https://skillicons.dev">
@@ -42,19 +42,19 @@ Trabalho no setor de TI da universidade e foco meus estudos em desenvolvimento b
 
 ---
 
-### 📊 Linguagens mais utilizadas
+###  Linguagens mais utilizadas
 
 <div align="left">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ogomesz&layout=compact&theme=dark&hide_border=true&title_color=87CEEB&text_color=FFFFFF&icon_color=87CEEB&bg_color=0D1117" />
+  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ogomesz&layout=compact&theme=dark&hide_border=true&title_color=87CEEB&text_color=FFFFFF&icon_color=87CEEB&bg_color=0D1117" />
 </div>
 
 ---
 
-### 🚀 Projetos em Destaque
+###  Projetos em Destaque
 
 * **[Controle de Estoque](https://github.com/ogomesz/Almoxarifado.Puc.git)** - Gestão de itens com POO em C#.
 * **[Catálogo de Filmes](https://github.com/ogomesz/GS-GEEK.git)** - Interface web e manipulação de JSON.
-* **[Vicios Bet]** - Desenvolvimento de lógica e regras de negócio.
+* **[Vicios Bet]()** - Desenvolvimento de lógica e regras de negócio.
 
 ---
 
