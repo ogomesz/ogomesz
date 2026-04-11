@@ -24,7 +24,7 @@
 ### 👨‍💻 Sobre Mim
 
 Atualmente no 3º semestre de **Sistemas de Informação (PUC Minas - Betim)**. 
-Foco meus estudos em desenvolvimento backend e arquiteturas escaláveis.
+Trabalho no setor de TI da universidade e foco meus estudos em desenvolvimento backend e arquiteturas escaláveis.
 
 - 🚀 Focado no ecossistema **C# | .NET**.
 - ⚙️ Praticando **POO**, **MVC** e **Entity Framework**.
@@ -50,10 +50,10 @@ Foco meus estudos em desenvolvimento backend e arquiteturas escaláveis.
 
 ---
 
-### 📊 Atividade do GitHub
+### 📊 Linguagens mais utilizadas
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ogomesz&bg_color=0D1117&color=87CEEB&line=87CEEB&point=FFFFFF&area=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ogomesz&layout=compact&theme=dark&hide_border=true&title_color=87CEEB&text_color=FFFFFF&icon_color=87CEEB&bg_color=0D1117" />
 </div>
 
 ---
