@@ -24,10 +24,10 @@
 ### 👨‍💻 Sobre Mim
 
 Atualmente no 3º semestre de **Sistemas de Informação (PUC Minas - Betim)**. 
-Trabalho no setor de TI da universidade e foco meus estudos em desenvolvimento backend e arquiteturas escaláveis.
+Foco meus estudos em desenvolvimento backend e arquiteturas escaláveis.
 
 - 🚀 Focado no ecossistema **C# | .NET**.
-- ⚙️ Praticando **POO** **Entity Framework**.
+- ⚙️ Praticando **POO**, **MVC** e **Entity Framework**.
 - 📚 Modelagem de dados com **SQL Server**.
 
 ---
@@ -36,7 +36,7 @@ Trabalho no setor de TI da universidade e foco meus estudos em desenvolvimento b
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,git,js,html,css,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,git,vscode,js,html,css,react,figma&theme=dark" />
   </a>
 </div>
 
@@ -53,7 +53,7 @@ Trabalho no setor de TI da universidade e foco meus estudos em desenvolvimento b
 ### 📊 Atividade do GitHub
 
 <div align="center">
-  <img height="150em" src=https://github-readme-stats-sigma-five.vercel.app/username=ogomesz&show_icons=true&theme=react&bg_color=0D1117&title_color=87CEEB&icon_color=87CEEB&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ogomesz&bg_color=0D1117&color=87CEEB&line=87CEEB&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
 ---
