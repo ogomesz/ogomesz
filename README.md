@@ -42,19 +42,19 @@ Trabalho no setor de TI da universidade e foco meus estudos em desenvolvimento b
 
 ---
 
+### 📊 Linguagens mais utilizadas
+
+<div align="left">
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ogomesz&layout=compact&theme=dark&hide_border=true&title_color=87CEEB&text_color=FFFFFF&icon_color=87CEEB&bg_color=0D1117" />
+</div>
+
+---
+
 ### 🚀 Projetos em Destaque
 
 * **[Controle de Estoque](https://github.com/ogomesz/Almoxarifado.Puc.git)** - Gestão de itens com POO em C#.
 * **[Catálogo de Filmes](https://github.com/ogomesz/GS-GEEK.git)** - Interface web e manipulação de JSON.
 * **[Vicios Bet]** - Desenvolvimento de lógica e regras de negócio.
-
----
-
-### 📊 Linguagens mais utilizadas
-
-<div 
-  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ogomesz&layout=compact&theme=dark&hide_border=true&title_color=87CEEB&text_color=FFFFFF&icon_color=87CEEB&bg_color=0D1117" />
-</div>
 
 ---
 
