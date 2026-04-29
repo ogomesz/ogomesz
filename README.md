@@ -28,7 +28,7 @@ Trabalho no setor de TI da universidade e foco meus estudos em desenvolvimento b
 
 - 🚀 Focado no ecossistema **C# | .NET**.
 - ⚙️ Praticando **POO**, **Entity Framework**.
-- 📚 Modelagem de dados com **SQL Server**.
+- 📚 Modelagem de dados com **MySQL**.
 
 ---
 
