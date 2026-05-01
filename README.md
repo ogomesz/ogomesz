@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header" width="100%"/>
 </p>
 
 <div align="center">
@@ -11,10 +11,10 @@
 
   <div>
     <a href="https://www.linkedin.com/in/eric-gomes-52158b359/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-4B0082?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:eric.gcordeiro16@gmail.com">
-      <img src="https://img.shields.io/badge/Email-87CEEB?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+      <img src="https://img.shields.io/badge/Email-4B0082?style=flat-square&logo=gmail&logoColor=white" alt="Email">
     </a>
   </div>
 </div>
@@ -23,7 +23,8 @@
 
 ###  Sobre Mim
 
-Atualmente no 3º semestre de **Sistemas de Informação (PUC Minas - Betim)**. 
+Atualmente no 3º semestre de **Sistemas de Informação (PUC Minas - Betim)**.
+
 Trabalho no setor de TI da universidade e foco meus estudos em desenvolvimento backend e arquiteturas escaláveis.
 
 - 🚀 Focado no ecossistema **C# | .NET**.
@@ -45,7 +46,7 @@ Trabalho no setor de TI da universidade e foco meus estudos em desenvolvimento b
 ###  Linguagens mais utilizadas
 
 <div align="left">
-  <img height="110em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ogomesz&layout=compact&theme=dark&hide_border=true&title_color=87CEEB&text_color=FFFFFF&icon_color=87CEEB&bg_color=0D1117" />
+  <img height="110em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ogomesz&layout=compact&theme=dark&hide_border=true&title_color=4B0082&text_color=FFFFFF&icon_color=4B0082&bg_color=0D1117" />
 </div>
 
 ---
@@ -59,5 +60,5 @@ Trabalho no setor de TI da universidade e foco meus estudos em desenvolvimento b
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=100&section=footer" width="100%"/>
 </p>
