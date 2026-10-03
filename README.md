@@ -45,7 +45,12 @@ Foco meus estudos em desenvolvimento backend, arquiteturas escaláveis seguranç
 
 ###  Projetos em Destaque
 
+**Projeto pessoal**
+
 * **[Controle de Estoque](https://github.com/ogomesz/Almoxarifado.Puc.git)** - Gestão de itens com POO em C#.
+
+**Projetos academicos**
+
 * **[Catálogo de Filmes](https://github.com/ogomesz/GS-GEEK.git)** - Interface web e manipulação de JSON.
 * **[Vicios Bet]()** - Desenvolvimento de lógica e regras de negócio.
 * **[GS GEEK](https://github.com/ICEI-PUC-Minas-PBE-ADS-TI/atividade-pr-tica-7-e-8-Zoldink.git)**
