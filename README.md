@@ -36,19 +36,12 @@ Foco meus estudos em desenvolvimento backend e arquiteturas escaláveis.
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,git,mysql,js,html,css,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,git,mysql,js,html,css,figma&theme=dark" />
   </a>
 </div>
 
 ---
 
-###  Linguagens mais utilizadas
-
-<div align="left">
-  <img height="110em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ogomesz&layout=compact&theme=dark&hide_border=true&title_color=4B0082&text_color=FFFFFF&icon_color=4B0082&bg_color=0D1117" />
-</div>
-
----
 
 ###  Projetos em Destaque
 
