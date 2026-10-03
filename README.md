@@ -24,7 +24,7 @@
 ###  Sobre Mim
 
 Atualmente no 3º semestre de **Sistemas de Informação (PUC Minas - Betim)**.
-Foco meus estudos em desenvolvimento backend e arquiteturas escaláveis.
+Foco meus estudos em desenvolvimento backend, arquiteturas escaláveis segurança da informação IR - SOC - BLUE TEAM.
 
 - 🚀 Focado no ecossistema **C# | .NET**.
 - ⚙️ Praticando **POO**, **Entity Framework**.
@@ -36,7 +36,7 @@ Foco meus estudos em desenvolvimento backend e arquiteturas escaláveis.
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,git,mysql,js,html,css,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,git,mysql,figma&theme=dark" />
   </a>
 </div>
 
