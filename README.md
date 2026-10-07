@@ -7,7 +7,7 @@
   <p>
     <strong>Estudante de Sistemas de Informação na PUC Minas</strong><br>
     Desenvolvedor Backend & Ecossistema .NET
-  </p>
+  </p>  
 
   <div>
     <a href="https://www.linkedin.com/in/eric-gomes-52158b359/">
