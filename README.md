@@ -42,8 +42,8 @@ I believe true engineering comes from mastering the fundamentals—knowing not o
 <br>
 
 - **Back-End Engineering:** C#, .NET, ASP.NET Core, Entity Framework Core, LINQ, and REST APIs.
-- **Databases & Data Modeling:** SQL Server, MySQL, query optimization, and relational schema design.
-- **Cybersecurity & Defense:** Blue Team operations, AppSec, Cyber Threat Intelligence (CTI), and forensics.
+- **Databases & Data Modeling:** MySQL, query optimization, and relational schema design.
+- **Cybersecurity & Defense:** Blue Team SOC.
 - **Systems & Infrastructure:** Linux (Ubuntu), Git/GitHub workflows, and computer networking.
 
 <br clear="right">
@@ -55,7 +55,6 @@ I believe true engineering comes from mastering the fundamentals—knowing not o
 ![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=2ECC71)
 ![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=2ECC71)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0D1117?style=for-the-badge&logo=dotnet&logoColor=2ECC71)
-![SQL Server](https://img.shields.io/badge/SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=2ECC71)
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=2ECC71)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=2ECC71)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=2ECC71)
