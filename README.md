@@ -1,62 +1,83 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header" width="100%"/>
-</p>
+<div align="center">
+
+<!-- Substitua pelo link ou caminho do seu banner do Doutor Destino no repositório -->
+<img src="<img width="400" height="225" alt="doom" src="https://github.com/user-attachments/assets/6aa6d7a0-ea40-4bd5-9127-78fc8d827624" />
+" alt="Latveria Systems Banner" width="100%">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&pause=1200&color=2ECC71&center=true&vCenter=true&width=750&lines=Back-End+Engineering+%26+Cybersecurity;C%23+%7C+.NET+%7C+ASP.NET+Core+%7C+SQL;Linux+%7C+Blue+Team+%7C+System+Architecture;No+system+is+beyond+my+control." alt="Typing animation">
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=2ECC71)](www.linkedin.com/in/eric-gomes-52158b359)
+[![Gmail](https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=2ECC71)](mailto:eric.gcordeiro17@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=2ECC71)](https://github.com/ogomesz)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ogomesz&style=for-the-badge&color=1E8449&label=PROFILE+VIEWS" alt="Profile views">
+<img src="https://img.shields.io/github/commit-activity/y/ogomesz/ogomesz?style=for-the-badge&color=1E8449&label=COMMIT+ACTIVITY" alt="Commit activity">
+<img src="https://img.shields.io/github/repo-size/ogomesz/ogomesz?style=for-the-badge&color=1E8449&label=REPO+SIZE" alt="Repository size">
+
+<br>
+
+</div>
+
+<br>
+
+---
+
+<!-- Substitua pela imagem lateral do Doutor Destino que você escolher 
+<img src="doctor-doom-avatar.jpg" align="right" width="230" alt="Doctor Doom Artwork"> -->
+
+I'm an Information Systems student and **Back-End Software Developer** focused on building resilient architectures and understanding the mechanics behind secure systems.
+
+My core stack revolves around **C#, .NET, ASP.NET Core, RESTful API design, and relational databases (SQL Server & MySQL)**. I prioritize clean architecture, object-oriented principles from first principles, and solid data modeling.
+
+Beyond application development, I actively study **cybersecurity (Blue Team, CTI, AppSec, and digital forensics)** alongside **Linux environments and computer networking** to build software capable of withstanding real-world threats.
+
+I believe true engineering comes from mastering the fundamentals—knowing not only how to build a system, but **how to harden, scale, and govern every layer of it**.
+
+<br>
+
+- **Back-End Engineering:** C#, .NET, ASP.NET Core, Entity Framework Core, LINQ, and REST APIs.
+- **Databases & Data Modeling:** SQL Server, MySQL, query optimization, and relational schema design.
+- **Cybersecurity & Defense:** Blue Team operations, AppSec, Cyber Threat Intelligence (CTI), and forensics.
+- **Systems & Infrastructure:** Linux (Ubuntu), Git/GitHub workflows, and computer networking.
+
+<br clear="right">
+
+---
 
 <div align="center">
-  <h1>Olá, eu sou o Eric Gomes </h1>
-  <p>
-    <strong>Estudante de Sistemas de Informação na PUC Minas</strong><br>
-    Desenvolvedor Backend & Ecossistema .NET
-  </p>  
 
-  <div>
-    <a href="https://www.linkedin.com/in/eric-gomes-52158b359/">
-      <img src="https://img.shields.io/badge/LinkedIn-4B0082?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:eric.gcordeiro16@gmail.com">
-      <img src="https://img.shields.io/badge/Email-4B0082?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-    </a>
-  </div>
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=2ECC71)
+![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=2ECC71)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0D1117?style=for-the-badge&logo=dotnet&logoColor=2ECC71)
+![SQL Server](https://img.shields.io/badge/SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=2ECC71)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=2ECC71)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=2ECC71)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=2ECC71)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=2ECC71)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=2ECC71)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-0D1117?style=for-the-badge&logo=visualstudio&logoColor=2ECC71)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=hackthebox&logoColor=2ECC71)
+
 </div>
 
----
-
-###  Sobre Mim
-
-Atualmente no 3º semestre de **Sistemas de Informação (PUC Minas - Betim)**.
-Foco meus estudos em desenvolvimento backend, arquiteturas escaláveis segurança da informação IR - SOC - BLUE TEAM.
-
-- 🚀 Focado no ecossistema **C# | .NET**.
-- ⚙️ Praticando **POO**, **Entity Framework**.
-- 📚 Modelagem de dados com **MySQL**.
+<br>
 
 ---
 
-###  Tecnologias & Ferramentas
+<div align="center">
 
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,git,mysql,figma&theme=dark" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=2ECC71)](www.linkedin.com/in/eric-gomes-52158b359)
+[![Gmail](https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=2ECC71)](mailto:eric.gcordeiro17@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=2ECC71)](https://github.com/ogomesz)
+
+<br>
+
+---
+
 </div>
-
----
-
-
-###  Projetos em Destaque
-
-**Projeto pessoal**
-
-* **[Controle de Estoque](https://github.com/ogomesz/Almoxarifado.Puc.git)** - Gestão de itens com POO em C#.
-
-**Projetos academicos**
-
-* **[Catálogo de Filmes](https://github.com/ogomesz/GS-GEEK.git)** - Interface web e manipulação de JSON.
-* **[Vicios Bet]()** - Desenvolvimento de lógica e regras de negócio.
-* **[GS GEEK](https://github.com/ICEI-PUC-Minas-PBE-ADS-TI/atividade-pr-tica-7-e-8-Zoldink.git)**
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=100&section=footer" width="100%"/>
-</p>
