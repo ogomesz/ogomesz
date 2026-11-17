@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Substitua pelo link ou caminho do seu banner do Doutor Destino no repositório -->
-<img width="600" height="225" alt="doom" src="https://github.com/user-attachments/assets/8ac26c57-f4f0-47de-925c-12db2b7d809f" />
+<img width="1000" height="225" alt="doom" src="https://github.com/user-attachments/assets/8ac26c57-f4f0-47de-925c-12db2b7d809f" />
 
 
 <br>
