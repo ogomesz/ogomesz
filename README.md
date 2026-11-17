@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Substitua pelo link ou caminho do seu banner do Doutor Destino no repositório -->
-<img src="doom.png" alt="Latveria Systems Banner" width="100%">
+<img width="400" height="225" alt="doom" src="https://github.com/user-attachments/assets/8ac26c57-f4f0-47de-925c-12db2b7d809f" />
+
 
 <br>
 
