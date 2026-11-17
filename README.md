@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&pause=1200&color=2ECC71&center=true&vCenter=true&width=750&lines=Back-End+Engineering+%26+Cybersecurity;C%23+%7C+.NET+%7C+ASP.NET+Core+%7C+SQL;Linux+%7C+Blue+Team+%7C+System+Architecture;No+system+is+beyond+my+control." alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&pause=1200&color=2ECC71&center=true&vCenter=true&width=750&lines=Back-End+Engineering+%26+Cybersecurity;C%23+%7C+.NET+%7C+ASP.NET+Core+%7C+SQL;Linux+%7C+BugBount+%7C+Pentest;No+system+is+beyond+my+control." alt="Typing animation">
 
 <br><br>
 
